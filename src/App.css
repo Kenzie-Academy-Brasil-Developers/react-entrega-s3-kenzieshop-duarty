@@ -1,0 +1,12 @@
+Body{
+    background-color: #F2F2F2;
+    display: flex;
+    flex-direction: column;
+    margin: 3rem 10rem 3rem 10rem;
+    
+}
+.Products__Container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}   
