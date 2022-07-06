@@ -8,10 +8,14 @@ const Cart = () => {
 
 
   return (
-    <ContainerPage>
-        <Header isCart/>
-        <CartList />
-  </ContainerPage>
+  
+            <ContainerPage>
+                <Header isCart/>
+                <CartList />
+            </ContainerPage>
+      
+
+  
   )
 }
 

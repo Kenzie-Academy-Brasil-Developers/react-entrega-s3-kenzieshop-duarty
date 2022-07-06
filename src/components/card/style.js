@@ -9,10 +9,10 @@ export const ProductsContainer = styled.ul`
 export const CardContainer = styled.li`
     display: flex;
     flex-direction: column;
-    border: 2px solid #BF0B2C;
+    border: 2px solid #474073;
     border-radius: 3px;
-    height: 318px;;
-    width: 250px;
+    max-height: 318px;;
+    max-width: 250px;
     justify-content: space-evenly;
     color: black;
     gap: 0.5rem;
@@ -41,7 +41,7 @@ export const CardContainer = styled.li`
         height: 30px;
         width: 252px;
         cursor: pointer;
-        background-color:#BF0B2C;
+        background-color:#474073;
         border: none;
         color: #fff;
         border-radius: 2px;

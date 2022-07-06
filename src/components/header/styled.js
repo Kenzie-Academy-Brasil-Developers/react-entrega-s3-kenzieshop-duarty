@@ -1,8 +1,8 @@
 import styled from 'styled-components'
 
 export const Container = styled.div`
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
     display: flex;
+    font-family: "Lobster, cursive";
     text-align: center;
     justify-content: space-between;
     border-bottom: 1px solid #6a696c;
@@ -14,8 +14,7 @@ export const Container = styled.div`
         display: flex;
         align-items: center;
         text-align: center;
-        font-family: 'Lobster', cursive;
-        color: #BF0B2C;
+        color: #4F4D8C;
         font-size: 2rem;
         font-weight: bold;
     }
@@ -27,7 +26,7 @@ export const Container = styled.div`
             background:none;
             border: none;
             outline: none;
-            color: #BF0B2C;
+            color: #474073;
             font-size: 30px;
             cursor: pointer;
 
